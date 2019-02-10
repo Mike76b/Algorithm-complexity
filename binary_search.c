@@ -1,5 +1,11 @@
 #include <stdio.h>
 
+/* With a Big O of O(log(n))
+The following code is used to search a wanted value (called value, in this code), 
+among an array of values (called values, in this case), discarding half of the range 
+of values in each round.
+*/
+
 int main(void)
 {
     // The following are sample values to work in.
