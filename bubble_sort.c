@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/*The following rearrange the values so the minimum value is at the very left side,
+/* With a Big O of O(n^2).
+The following rearrange the values so the minimum value is at the very left side,
 and the maximum value at the very right side.
 If the opposite order is required (from max to min), change:
 if (val1 > val2)
