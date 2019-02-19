@@ -16,7 +16,7 @@ int main(void)
     // Array length.
     int n = sizeof(values) / sizeof(values[0]);
 
-        // Sorting loop.
+    // Sorting loop.
     for (int i = 0; i < (n - 1); i++)
     {
         int min = values[i];
