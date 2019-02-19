@@ -39,7 +39,7 @@ int main(void)
         }
     }
 
-        //Printing the ordered array.
+    //Printing the ordered array.
     for (int j = 0; j < n; ++j)
     {
         printf("%i ", values[j]);
